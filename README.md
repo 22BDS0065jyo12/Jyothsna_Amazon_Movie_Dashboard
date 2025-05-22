@@ -88,7 +88,10 @@ Interact with filters, visuals, and hover over charts to uncover hidden insights
 ## 👩‍💻 About the Author
 **Hanumanthu Jyothsna**  
 💡 Data Science Enthusiast | Power BI Developer
-![Dashboard Screenshot](dashboard_filters.png)
+![Dashboard filers Screenshot](dashboard_filters.png)
+![Entire Dashboard Screenshot](entire_dashboard.png)
+
+
 
 
 
